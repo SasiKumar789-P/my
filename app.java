@@ -18,9 +18,7 @@ public class GFG{
 
         // Close the scanner
         sc.close();
-    }
-}
-
+    
 public class Main {
     public static void main(String[] args) {
         // 1. Print a message to the console
