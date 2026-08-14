@@ -20,3 +20,9 @@ public class GFG{
         sc.close();
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
+        // 1. Print a message to the console
+        System.out.println("Welcome to Java Programming!");
+
